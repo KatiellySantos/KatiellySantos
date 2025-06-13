@@ -1,9 +1,8 @@
-<h1 align="center">👋 Olá, Eu sou Katielly Santos</h1>
+# 👋 Olá, eu sou Katielly Santos
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/katielly-santos/" target="_blank">LinkedIn</a> |
-  <a href="https://github.com/KatiellySantos" target="_blank">GitHub</a>
-</p>
+🤝 **Conecte-se comigo:**  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katielly-santos/)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KatiellySantos)
 
 ---
 
@@ -39,10 +38,3 @@ Atualmente estudo e pratico com:
 ### 📊 GitHub Stats
 
 ![Katielly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KatiellySantos&show_icons=true&theme=radical)
-
----
-
-### 🤝 Conecte-se comigo
-
-📌 [LinkedIn](https://www.linkedin.com/in/katielly-santos/)  
-📌 [GitHub](https://github.com/KatiellySantos)
