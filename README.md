@@ -33,7 +33,7 @@ Atualmente estudo e pratico com:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-[![Looker Studio](https://img.shields.io/badge/-Looker_Studio-FF6F00?style=flat&logo=google&logoColor=white)](https://lookerstudio.google.com/u/0/reporting/fe3b1e06-ecc8-4695-a67d-ac9aa8da2081/page/Qp7aF)
+[![Looker Studio](https://img.shields.io/badge/-Looker_Studio-FF6F00?style=flat&logo=google&logoColor=white)](https://lookerstudio.google.com/reporting/fe3b1e06-ecc8-4695-a67d-ac9aa8da2081)
 
 
 ---
