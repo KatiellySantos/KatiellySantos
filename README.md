@@ -8,17 +8,15 @@
 
 ### 🧠 Sobre mim
 
-Sou uma desenvolvedora focada em **back-end** e **dados**, apaixonada por tecnologia e inovação.  
-Tenho interesse em construir soluções robustas com foco em performance, segurança e análise de dados.
+Sou apaixonada por transformar **dados** em insights estratégicos, criando soluções que apoiam decisões e processos eficientes. Trabalho com coleta, manipulação, análise e visualização de dados, buscando sempre performance e precisão.
 
 Atualmente estudo e pratico com:
 
-- ☕ **Java** e **Spring Boot** para desenvolvimento backend  
-- 🐍 **Python** aplicado a automações e dados  
-- 💾 **MySQL** e **MongoDB** para persistência de dados  
-- 🐳 **Docker** para ambientes isolados  
-- ☁️ **AWS** e **Google Cloud (GCP)** para soluções em nuvem  
-- 📊 Explorando também ferramentas e conceitos de análise de dados
+- 🐍 **Python** para automações, análise e manipulação de dados
+
+- 💾 **MySQL** e MongoDB para armazenamento e consultas
+
+- 📊 **Excel**, **Power BI** e **Looker Studio** para exploração, visualização e construção de dashboards
 
 ---
 
@@ -33,6 +31,19 @@ Atualmente estudo e pratico com:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 [![Looker Studio](https://img.shields.io/badge/-Looker_Studio-FF6F00?style=flat&logo=google&logoColor=white)](https://lookerstudio.google.com/reporting/fe3b1e06-ecc8-4695-a67d-ac9aa8da2081)
+
+---
+### 📂 Portfólio
+
+Aqui você encontra meus projetos focados exclusivamente em **análise de dados**, incluindo coleta, tratamento, visualização e criação de dashboards.
+Clique nos badges abaixo para acessar cada projeto:
+
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://SEU_LINK_AQUI)
+
+[![Looker Studio](https://img.shields.io/badge/Looker%20Studio-FF6F00?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/reporting/fe3b1e06-ecc8-4695-a67d-ac9aa8da2081)
+
+[![Streamlit / Python](https://img.shields.io/badge/Streamlit%20%2F%20Python-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://SEU_LINK_AQUI)
+
 
 
 ---
