@@ -23,7 +23,7 @@ Aqui você encontra meus projetos focados em **análise de dados**, incluindo co
 Clique nos badges abaixo para acessar cada projeto:
 
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/KatiellySantos/Projetos_em_Excel.git)
-[![Looker Studio](https://img.shields.io/badge/Looker%20Studio-FF6F00?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/reporting/fe3b1e06-ecc8-4695-a67d-ac9aa8da2081)
+[![Looker Studio](https://img.shields.io/badge/Looker%20Studio-FF6F00?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/u/0/reporting/9f1a1263-1e74-4e6b-8973-a2617454e629/page/vZOcF)
 [![Python / Streamlit](https://img.shields.io/badge/Streamlit%20%2F%20Python-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://SEU_LINK_AQUI)
 
 ---
