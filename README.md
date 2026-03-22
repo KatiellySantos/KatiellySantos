@@ -1,7 +1,3 @@
-
-  <img src="https://github.com/KatiellySantos/projetos_streamlit/blob/6f1c6ab511aa88535e1d0bce5e0a2e7afff451fc/1.Projeto/.png" width="200" align="right"/>
-  
-
 # Olá, eu sou Katielly Santos
 
 🤝 **Conecte-se comigo:**  
