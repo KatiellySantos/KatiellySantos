@@ -1,4 +1,4 @@
-<img src="sualogo.png" width="200"/>
+<img src="Projeto/.png" width="200"/>
 # 👋 Olá, eu sou Katielly Santos
 
 🤝 **Conecte-se comigo:**  
